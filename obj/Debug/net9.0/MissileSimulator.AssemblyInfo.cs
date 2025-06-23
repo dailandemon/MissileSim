@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MissileSimulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+579ef5f6e19debf3aa076a1f875a452b437150ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("MissileSimulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MissileSimulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
